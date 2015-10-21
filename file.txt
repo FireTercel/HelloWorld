@@ -5,3 +5,4 @@ I'm file
 一个字符可以有2、3、4个字节，具体需要看是什么编码格式
 
 The End!
+The End Too.
