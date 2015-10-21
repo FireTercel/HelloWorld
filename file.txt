@@ -6,3 +6,6 @@ I'm file
 
 The End!
 The End Too.
+
+commit 1
+commit 2
